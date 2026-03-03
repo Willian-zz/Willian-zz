@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Willian "Harry" Junior</h1>
 
 ###
 
@@ -60,6 +60,22 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Willian-zz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
+</div>
+
+###
+
+<h6 align="center">"Being a winner is a course..."<br>- LeBron James 🐐</h6>
+
+###
+
+<div align="center">
+  <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndkYWpyNmFvb2wydXVtMnJyNDdhbGNlbDhleHU2dmFwYXdzaXo5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LbYVk8jIGWYrHeorpf/giphy.gif"  />
 </div>
 
 ###
