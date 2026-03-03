@@ -64,7 +64,9 @@
 
 ###
 
-<h6 align="center">"Being a winner is a course..."<br>- LeBron James 🐐</h6>
+<div align="center">
+  <sub>"Being a winner is a course..."<br>- LeBron James 🐐</sub>
+</div>
 
 ###
 
