@@ -12,12 +12,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Willian-zz.Willian-zz&"  />
-</div>
-
-###
-
 <h1 align="center">Willian "Harry" Junior</h1>
 
 ###
